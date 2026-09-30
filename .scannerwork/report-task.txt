@@ -1,0 +1,6 @@
+projectKey=homemade-kitchen
+serverUrl=http://13.58.24.0:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://13.58.24.0:9000/dashboard?id=homemade-kitchen
+ceTaskId=de1f0e8f-8913-4de3-9a8d-962737ea63ae
+ceTaskUrl=http://13.58.24.0:9000/api/ce/task?id=de1f0e8f-8913-4de3-9a8d-962737ea63ae
